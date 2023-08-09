@@ -4,11 +4,11 @@
 # Output:
 First " Forward " :
 
-![Forward]()
+![Forward](FOutput.jpg)
 
 Second " Stop " : 
 
-![Stop]()
+![Stop](SOutput.jpg)
 
 # Simulations
 First " Forward " :

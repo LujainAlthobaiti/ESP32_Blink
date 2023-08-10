@@ -10,7 +10,9 @@ First " Forward " :
 
 Second " Stop " : 
 
-![Stop](SOutput.png)
+![Stop](S.png)
+
+![Stop](S(2).png)
 
 # Simulations
 First " Forward " :
@@ -27,7 +29,7 @@ Stop URL:
     https://s-m.com.sa/s.html
 
 Stop Full Simulation:
-[Stop_Simulation](https://wokwi.com/projects/372625293424965633)
+[Stop_Simulation](https://wokwi.com/projects/372624486482800641)
 
 Third " Left " : 
 Stop URL:  

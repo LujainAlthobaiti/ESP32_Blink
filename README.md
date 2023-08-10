@@ -1,5 +1,22 @@
 # ESP32_Blink
-..............................
+Simulate the control panel of a robot using ESP32.
+
+# Control panel:
+  All instructions for directing the robot's movement are provided on the control panel.
+
+# Control panel components:
+1 : Forward 
+2 : Stop 
+3 : Left 
+4 : Right 
+5 : Backward
+  
+# Simulation requirements:
+
+1 : ESP32
+2 : LEDs
+3 : Resistor
+4 : Wires
 
 # Output:
 First " Forward " :

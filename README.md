@@ -56,7 +56,7 @@ Left URL:
     https://s-m.com.sa/l.html
 
 Left Full Simulation:
-[Left_Simulation](https://wokwi.com/projects/372624486482800641)
+[Left_Simulation](https://wokwi.com/projects/372633789453698049)
 
 Fourth " Right " : 
 Right URL:  

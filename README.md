@@ -22,6 +22,12 @@ Third " Left " :
 
 Fourth " Right " : 
 
+![Stop](R.png)
+
+![Stop](R(2).png)
+
+Fifth " Backward " : 
+
 
 
 # Simulations
@@ -55,12 +61,12 @@ Right URL:
     https://s-m.com.sa/r.html
 
 Right Full Simulation:
-[Right_Simulation](https://wokwi.com/projects/372625293424965633)
+[Right_Simulation](https://wokwi.com/projects/372624486482800641)
 
 Fifth " Backward " : 
-Stop URL:  
+Backward URL:  
                                    
     https://s-m.com.sa/b.html
 
-Stop Full Simulation:
-[Stop_Simulation](https://wokwi.com/projects/372625293424965633)
+Backward Full Simulation:
+[Backward_Simulation](https://wokwi.com/projects/372625293424965633)

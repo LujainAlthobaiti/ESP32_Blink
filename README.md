@@ -28,6 +28,9 @@ Fourth " Right " :
 
 Fifth " Backward " : 
 
+![Stop](B.png)
+
+![Stop](B(2).png)
 
 
 # Simulations
@@ -69,4 +72,4 @@ Backward URL:
     https://s-m.com.sa/b.html
 
 Backward Full Simulation:
-[Backward_Simulation](https://wokwi.com/projects/372625293424965633)
+[Backward_Simulation](https://wokwi.com/projects/372632894691132417)

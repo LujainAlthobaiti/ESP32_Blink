@@ -22,7 +22,7 @@ Third " Left " :
 
 Fourth " Right " : 
 
-![Stop](R.png)
+![Stop](r.png)
 
 ![Stop](R(2).png)
 
